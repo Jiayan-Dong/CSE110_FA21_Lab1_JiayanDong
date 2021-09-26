@@ -50,4 +50,4 @@ Personal goal:
 - [ ] Find an internship
 - [ ] Find a job
 
-Contact information: [jid001@ucsd.edu](jid001@ucsd.edu) or [nonlighting@gmail.com](nonlighting@gmail.com)
+Contact information: <jid001@ucsd.edu> or <nonlighting@gmail.com>
